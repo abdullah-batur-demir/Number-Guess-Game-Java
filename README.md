@@ -24,7 +24,7 @@ Proje, her bileşenin tek bir sorumluluğu üstlenmesi (**Single Responsibility 
 
 ## 📄 Mühendislik Raporu
 Projenin detaylı analizini, sınıf diyagramı mantığını ve test senaryolarını içeren resmi raporuma aşağıdan ulaşabilirsiniz:
-👉 **[Proje Teknik Raporu (PDF)](./reports/Abdullah_Batur_Demir_Proje_Raporu.pdf)**
+👉 **[Proje Teknik Raporu (PDF)](./docs/Abdullah_Batur_Demir_Project_Report.pdf)**
 
 ## 🛠️ Kurulum ve Çalıştırma
 1. Projeyi bilgisayarınıza indirin.
